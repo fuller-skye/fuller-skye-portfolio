@@ -12,7 +12,7 @@ Current Projects
 
 Finished Projects
 
--
+- none
   
 More Info
 
