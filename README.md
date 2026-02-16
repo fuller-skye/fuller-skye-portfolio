@@ -3,10 +3,14 @@
 <h3 align="center">A Mathematics Senior at the University of Nebraska - Kearney and aspiring Data Analyst</h3>
 
 Current Projects
-- [Maryland-Crime/Income/Population](https://github.com/fuller-skye/maryland-crime-population-income)
-- [Bookkeeping](https://github.com/fuller-skye/bookeeping)
 
-- I’m currently learning **Inuits Bookeeping System**
+- [Maryland-Crime/Income/Population](https://github.com/fuller-skye/maryland-crime-population-income)
+  
+- [Bookkeeping](https://github.com/fuller-skye/bookeeping)
+  
+- Learning **Inuits Bookeeping System**
+  
+More Info
 
 - I regularly write articles on [https://skylerjacksonfuller.blogspot.com](https://skylerjacksonfuller.blogspot.com)
 
