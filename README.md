@@ -12,7 +12,7 @@ Current Projects
 
 Finished Projects
 
-- none
+- [Python Statistics](https://github.com/fuller-skye/python-statistics-projects)
   
 More Info
 
