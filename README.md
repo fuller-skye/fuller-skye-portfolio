@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Skyler Fuller</h1>
 <h3 align="center">A Mathematics Senior at the University of Nebraska - Kearney and aspiring Data Analyst</h3>
 
-- I’m currently working on [Maryland-Crime/Income/Population](https://github.com/fuller-skye/maryland-crime-population-income)
-
-- I have previously worked on 
+Current Projects
+- [Maryland-Crime/Income/Population](https://github.com/fuller-skye/maryland-crime-population-income)
+- [Bookkeeping](https://github.com/fuller-skye/bookeeping)
 
 - I’m currently learning **Inuits Bookeeping System**
 
@@ -12,7 +12,7 @@
 
 - How to reach me **skye.j.f.11@gmail.com**
 
-- Know about my experiences [https://docs.google.com/document/d/1s0TuDo5TcEOAsZzltBrOm5PyL22qNv4Y6_m4ekdKNlY/edit?usp=sharing](https://docs.google.com/document/d/1s0TuDo5TcEOAsZzltBrOm5PyL22qNv4Y6_m4ekdKNlY/edit?usp=sharing)
+- Resume - [https://docs.google.com/document/d/1s0TuDo5TcEOAsZzltBrOm5PyL22qNv4Y6_m4ekdKNlY/edit?usp=sharing](https://docs.google.com/document/d/1s0TuDo5TcEOAsZzltBrOm5PyL22qNv4Y6_m4ekdKNlY/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
