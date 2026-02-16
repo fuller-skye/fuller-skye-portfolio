@@ -10,9 +10,14 @@ Current Projects
   
 - Learning **Inuits Bookeeping System**
 
-Finished Projects
+Finished Projects By Language
 
-- [Python Statistics](https://github.com/fuller-skye/python-statistics-projects)
+| Language | Projects |
+| ------------- | ------------- |
+| Python  | - [Python Statistics](https://github.com/fuller-skye/python-statistics-projects)|
+| SQL  | - N/A |
+| Excel | - N/A |
+
   
 More Info
 
