@@ -13,8 +13,8 @@ Current Projects
 Finished Projects By Language
 
 | Language | Projects |
-| ------------- | ------------- |
-| Python  | - [Python Statistics](https://github.com/fuller-skye/python-statistics-projects)|
+| ------------- | :-------------: |
+| Python  | - [Python Statistics Tools](https://github.com/fuller-skye/python-statistics-projects)|
 | SQL  | - N/A |
 | Excel | - N/A |
 
