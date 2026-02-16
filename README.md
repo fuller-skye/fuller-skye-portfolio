@@ -9,6 +9,10 @@ Current Projects
 - [Bookkeeping](https://github.com/fuller-skye/bookeeping)
   
 - Learning **Inuits Bookeeping System**
+
+Finished Projects
+
+-
   
 More Info
 
