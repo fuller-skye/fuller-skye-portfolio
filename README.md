@@ -7,6 +7,8 @@ Current Projects
 - [Maryland-Crime/Income/Population](https://github.com/fuller-skye/maryland-crime-population-income)
   
 - [Bookkeeping](https://github.com/fuller-skye/bookeeping)
+
+- [8 Week SQL Challenge]
   
 - Learning **Inuits Bookeeping System**
 
