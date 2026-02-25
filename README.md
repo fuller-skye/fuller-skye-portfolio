@@ -23,9 +23,9 @@ More Info
 
 - I regularly write articles on [https://skylerjacksonfuller.blogspot.com](https://skylerjacksonfuller.blogspot.com)
 
-- How to reach me **skye.j.f.11@gmail.com**
+- Reach me at **skye.j.f.11@gmail.com**
 
-- Resume - [https://docs.google.com/document/d/1s0TuDo5TcEOAsZzltBrOm5PyL22qNv4Y6_m4ekdKNlY/edit?usp=sharing](https://docs.google.com/document/d/1s0TuDo5TcEOAsZzltBrOm5PyL22qNv4Y6_m4ekdKNlY/edit?usp=sharing)
+- [Resume](https://docs.google.com/document/d/1s0TuDo5TcEOAsZzltBrOm5PyL22qNv4Y6_m4ekdKNlY/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
