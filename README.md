@@ -16,7 +16,8 @@ Finished Projects By Language
 | ------------- | :-------------: |
 | Python  | [Python Statistics Tools](https://github.com/fuller-skye/python-statistics-projects)|
 | SQL  | N/A |
-| Excel | N/A |
+| Excel | - [Newton's 3rd Law](https://uofnebraska-my.sharepoint.com/:x:/g/personal/56940529_nebraska_edu/IQDDnmigl2T2QIOI3N-LhdNfATI4D29RmvxSZfNHb2fIlwg?e=4cKZvb) 
+ - [Principles of Buoyancy](https://uofnebraska-my.sharepoint.com/:x:/g/personal/56940529_nebraska_edu/IQBRSai8obliS43U4xV41BtEAe6mrRAHhRXQvFOpI89cQ0U?e=iS1Niw)|
 
   
 More Info
