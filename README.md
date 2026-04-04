@@ -1,4 +1,4 @@
-# fuller-skye-portfolio
+
 <h1 align="center">Hi 👋, I'm Skyler Fuller</h1>
 <h3 align="center">A Mathematics Senior at the University of Nebraska - Kearney and aspiring Data Analyst</h3>
 
