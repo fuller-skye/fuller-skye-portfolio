@@ -2,21 +2,15 @@
 <h1 align="center">Hi 👋, I'm Skyler Fuller</h1>
 <h3 align="center">A Mathematics Senior at the University of Nebraska - Kearney and aspiring Data Analyst</h3>
 
-Current Projects
 
-- [Maryland-Crime/Income/Population](https://github.com/fuller-skye/maryland-crime-population-income)
-  
-- [Bookkeeping](https://github.com/fuller-skye/bookeeping)
-  
-- Learning **Inuits Bookeeping System**
-
-Finished Projects By Language
+Projects By Language
 
 | Language | Projects |
 | ------------- | :-------------: |
-| Python  | [Python Data Tools](https://github.com/fuller-skye/python-statistics-projects)|
-| SQL  | N/A |
-| Excel |  [Newton's 3rd Law](https://uofnebraska-my.sharepoint.com/:x:/g/personal/56940529_nebraska_edu/IQDDnmigl2T2QIOI3N-LhdNfATI4D29RmvxSZfNHb2fIlwg?e=4cKZvb) - [Principles of Buoyancy](https://uofnebraska-my.sharepoint.com/:x:/g/personal/56940529_nebraska_edu/IQBRSai8obliS43U4xV41BtEAe6mrRAHhRXQvFOpI89cQ0U?e=iS1Niw)|
+| Python  | [Python Data Tools](https://github.com/fuller-skye/python-statistics-projects) - [Random People](https://github.com/fuller-skye/python-data-analysis)|
+| SQL  | [SQL Data Tools](https://github.com/fuller-skye/python-statistics-projects)|
+| Excel |  [Newton's 3rd Law](https://uofnebraska-my.sharepoint.com/:x:/g/personal/56940529_nebraska_edu/IQDDnmigl2T2QIOI3N-LhdNfATI4D29RmvxSZfNHb2fIlwg?e=4cKZvb) - [Principles of Buoyancy](https://uofnebraska-my.sharepoint.com/:x:/g/personal/56940529_nebraska_edu/IQBRSai8obliS43U4xV41BtEAe6mrRAHhRXQvFOpI89cQ0U?e=iS1Niw) - [Maryland-Crime/Income/Population](https://github.com/fuller-skye/maryland-crime-population-income)|
+| General | [Bookkeeping](https://github.com/fuller-skye/bookeeping) |
 
   
 More Info
