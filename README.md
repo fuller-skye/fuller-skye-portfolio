@@ -1,9 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Skyler Fuller</h1>
+<h1 align="center">Hi, I'm Skyler Fuller</h1>
 <h3 align="center">A Mathematics Senior at the University of Nebraska - Kearney and aspiring Data Analyst</h3>
 
 
+
 <h3 align="center">Projects By Language
+
 
 <div align="center">
   
@@ -15,6 +17,8 @@
 | General | [Bookkeeping](https://github.com/fuller-skye/bookeeping) |
 
 </div>
+
+
 
 <h3 align="left">  
 More Info
