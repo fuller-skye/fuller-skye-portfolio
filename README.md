@@ -3,8 +3,8 @@
 <h3 align="center">A Mathematics Senior at the University of Nebraska - Kearney and aspiring Data Analyst</h3>
 
 
-Projects By Language
-
+<h3 align="center">Projects By Language
+<h3 align="center">
 | Language | Projects |
 | ------------- | :-------------: |
 | Python  | [Python Data Tools](https://github.com/fuller-skye/python-statistics-projects) - [Random People](https://github.com/fuller-skye/python-data-analysis)|
