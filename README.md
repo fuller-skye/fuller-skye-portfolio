@@ -4,14 +4,15 @@
 
 
 <h3 align="center">Projects By Language
-<h3 align="center">
+
+<div align="center">
 | Language | Projects |
 | ------------- | :-------------: |
 | Python  | [Python Data Tools](https://github.com/fuller-skye/python-statistics-projects) - [Random People](https://github.com/fuller-skye/python-data-analysis)|
 | SQL  | [SQL Data Tools](https://github.com/fuller-skye/python-statistics-projects)|
 | Excel |  [Newton's 3rd Law](https://uofnebraska-my.sharepoint.com/:x:/g/personal/56940529_nebraska_edu/IQDDnmigl2T2QIOI3N-LhdNfATI4D29RmvxSZfNHb2fIlwg?e=4cKZvb) - [Principles of Buoyancy](https://uofnebraska-my.sharepoint.com/:x:/g/personal/56940529_nebraska_edu/IQBRSai8obliS43U4xV41BtEAe6mrRAHhRXQvFOpI89cQ0U?e=iS1Niw) - [Maryland-Crime/Income/Population](https://github.com/fuller-skye/maryland-crime-population-income)|
 | General | [Bookkeeping](https://github.com/fuller-skye/bookeeping) |
-
+</div>
   
 More Info
 
