@@ -15,7 +15,8 @@
 | General | [Bookkeeping](https://github.com/fuller-skye/bookeeping) |
 
 </div>
-  
+
+<h3 align="left">  
 More Info
 
 - I regularly write articles on [https://skylerjacksonfuller.blogspot.com](https://skylerjacksonfuller.blogspot.com)
