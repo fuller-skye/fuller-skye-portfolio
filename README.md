@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Skyler Fuller</h1>
-<h3 align="center">A Mathematics Senior at the University of Nebraska - Kearney and aspiring Data Analyst</h3>
+<h3 align="center">A Mathematician from the University of Nebraska - Kearney and aspiring Data Analyst</h3>
 
 
 
